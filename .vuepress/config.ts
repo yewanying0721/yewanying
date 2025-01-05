@@ -11,7 +11,7 @@ export default defineUserConfig({
   theme: recoTheme({
     logo: "/logo.png",
     author: "yewanying",
-    authorAvatar: "/head.jpg",
+    authorAvatar: "/head.png",
     docsRepo: "",
     docsBranch: "main",
     docsDir: "example",
